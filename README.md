@@ -1,5 +1,7 @@
-<div align="center" style="display:flex;" dir="auto">
-<h3>Hello, I'm JongYeon 🖐️</h3>
+<div align="center">
+
+### Hello, I'm JongYeon 🖐️
+
 <br>
 <img src="http://poot97.dothome.co.kr/TextGenerator/picture/city2.gif" style="width:750px;">
 <br>
