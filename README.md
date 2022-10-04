@@ -1,7 +1,7 @@
 <div align="center" style="display:flex;" dir="auto">
 <h3>Hello, I'm JongYeon 🖐️</h3>
 <br>
-<img src="http://poot97.dothome.co.kr/TextGenerator/picture/city.gif" style="width:750px;">
+
 <br>
 <br>
 <p>🎆 개발자의 꿈을 꾸는 어른이 👨‍💻</p>
