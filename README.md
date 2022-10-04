@@ -1,9 +1,12 @@
 <div align="center" style="display:flex;" dir="auto">
-<div style="float:left">
 <h3>Hello, I'm JongYeon</h3>
-<img src="http://poot97.dothome.co.kr/TextGenerator/picture/city.gif" style="width:1000px;">
-<p>헬로우 마이네임 이즈 김종연</p>
-</div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark" style="float:right; word-wrap: break-word; line-height: 1.5;">
-
+<img src="http://poot97.dothome.co.kr/TextGenerator/picture/city.gif" style="width:800px;">
+<br>
+<p>🎆 개발자의 꿈을 꾸는 어른이👨‍💻</p>
+<br>
+<img src="https://img.shields.io/badge/jjon9__yy-E4405F?style=flat&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark">
 </div>
 
