@@ -10,6 +10,9 @@
 <br>
 <img src="https://img.shields.io/badge/jjon9__yy-E4405F?style=flat&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+react
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark">
 </div>
