@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
 <br>
 <hr>
+  <h4> 🏷️ TECH STACKS </h4>
+
   <h4> ✍️ STUDYING... </h4>
   <br>
 <img src="https://img.shields.io/badge/REACT.js-61DAFB?style=flat&logo=react&logoColor=white">
