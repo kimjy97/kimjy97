@@ -19,6 +19,9 @@
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 	<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <br>
   <br>
   <h3> ✍️ STUDYING... </h3>
