@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/REACT.js-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">
+  <br>Adobe Illustrator
   <br><br> 
   <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark">
