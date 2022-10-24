@@ -23,6 +23,8 @@
 	<br>
 	<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
   <br>
   <br>
   <h3> ✍️ STUDYING... </h3>
@@ -30,7 +32,7 @@
   <img src="https://img.shields.io/badge/REACT.js-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat&logo=redux&logoColor=white">
-  <br>Adobe Illustrator
+  <br>
   <br><br> 
   <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark">
