@@ -7,7 +7,7 @@
 <br>
 <br>
 <p>🎆 개발자의 꿈을 꾸는 어른이 👨‍💻</p>
-<p> 근황 : 학원, 자격증 공부</p>
+<p> 근황 : 학원, 프로젝트 진행</p>
 <br>
 <img src="https://img.shields.io/badge/jjon9__yy-E4405F?style=flat&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
