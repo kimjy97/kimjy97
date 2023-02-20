@@ -33,7 +33,7 @@
   <br>
   <h3> ✍️ STUDYING... </h3>
   <br>
-	<img src="https://img.shields.io/badge/React-Native.js-61DAFB?style=flat&logo=react&logoColor=white">
+	<img src="https://img.shields.io/badge/React_Native.js-61DAFB?style=flat&logo=react&logoColor=white">
   	<img src="https://img.shields.io/badge/VUE.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
   	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <br>
