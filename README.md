@@ -9,6 +9,9 @@
 <br>
 <img src="https://img.shields.io/badge/jjon9__yy-E4405F?style=flat&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/poot972@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
+<br><br>
+🔗 <a href="https://kimjy-portfolio.vercel.app">PORTFOLIO SITE</a>
+
 <br>
 <hr>
 <h3> 🏷️ TECH STACKS </h3>
@@ -23,13 +26,12 @@
 #### ⚙️ Backend & Database
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Neon%20(Vector)-00E599?style=flat&logo=neon&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Inngest-FF4F00?style=flat&logo=inngest&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Inngest-FF4F00?style=flat&logo=inngest&logoColor=white">
 
 #### ☁️ DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=Adobe-Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white"/>
   <br><br> 
   <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjy97&layout=compact&theme=dark">
 </div>
